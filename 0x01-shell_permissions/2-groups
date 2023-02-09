@@ -1,2 +1,2 @@
 #!/bin/bash
-Groups for $(whoami): $(groups)
+echo "Groups for $(whoami): $(groups)"
