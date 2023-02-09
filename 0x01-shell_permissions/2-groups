@@ -1,0 +1,2 @@
+#!/bin/bash
+Groups for $(whoami): $(groups)
