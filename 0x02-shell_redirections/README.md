@@ -12,3 +12,5 @@ Display last lines of a file
 Display first lines of a file
 # 6.display a specifc line
 displays the third line of a file
+# 7.good file
+A file ending with a new line
