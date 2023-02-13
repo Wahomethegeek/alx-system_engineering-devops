@@ -10,3 +10,5 @@ two files
 Display last lines of a file
 # 5. first lines of a file
 Display first lines of a file
+# 6.display a specifc line
+displays the third line of a file
