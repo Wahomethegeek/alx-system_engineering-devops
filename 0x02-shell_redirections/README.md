@@ -6,3 +6,5 @@ A script that displays a confused smiley
 content of he file /etc/passwd file.
 # 3. Display content of two files
 two files
+# 4. last lines of a file
+Display last lines of a file
