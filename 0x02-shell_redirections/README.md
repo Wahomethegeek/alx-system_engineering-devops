@@ -16,3 +16,5 @@ displays the third line of a file
 A file ending with a new line
 # 8 save current state of directory
 The state of the directory to a file and overwrites its
+# 9 Duplicate last line
+duplicating a line.
