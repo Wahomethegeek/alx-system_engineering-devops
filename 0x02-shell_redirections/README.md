@@ -18,3 +18,5 @@ A file ending with a new line
 The state of the directory to a file and overwrites its
 # 9 Duplicate last line
 duplicating a line.
+# 10. removing files with the same extension
+removing regular files
