@@ -8,3 +8,5 @@ content of he file /etc/passwd file.
 two files
 # 4. last lines of a file
 Display last lines of a file
+# 5. first lines of a file
+Display first lines of a file
