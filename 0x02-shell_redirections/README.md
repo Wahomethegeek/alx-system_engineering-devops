@@ -4,3 +4,5 @@ Write a script that prints “Hello, World”, followed by a new line to the sta
 A script that displays a confused smiley
 # 2. Display file content
 content of he file /etc/passwd file.
+# 3. Display content of two files
+two files
